@@ -1,2 +1,2 @@
-#Welcome!
+# Welcome!
 Welcome to my HackerRank challenge solutions repo. Here you'll find a selection of challenge solutions that I've worked on outside of HackerRank's built-in editor. I'll try to get better at always solving them using VS Code so that this collection will grow much more quickly.
